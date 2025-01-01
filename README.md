@@ -1,5 +1,3 @@
 ** Personal Portfolio **
 
-Using HTML CSS JS ...
-
-open source portfolio ...
+User-friendly portfolio using HTML, CSS, and JavaScript.
