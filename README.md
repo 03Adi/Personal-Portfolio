@@ -42,7 +42,7 @@ This is a **Personal Portfolio** website showcasing projects, skills, and contac
 3. Open `index.html` in a browser.
 
 ## Live Demo
-- **GitHub Pages:** [Your Portfolio](https://your-username.github.io/personal-portfolio/)
+- **GitHub Pages:** [Your Portfolio](https://03adi.github.io/Personal-Portfolio/)
 - **Netlify:** [Your Portfolio](https://portfolio-aditya03.netlify.app/)
 
 ## Contributing
