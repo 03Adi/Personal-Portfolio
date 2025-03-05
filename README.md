@@ -42,7 +42,7 @@ This is a **Personal Portfolio** website showcasing projects, skills, and contac
 3. Open `index.html` in a browser.
 
 ## Live Demo
-- **Netlify:** [Live](https://portfolio-aditya03.netlify.app/)
+- **Portfolio-Link:** [Live](https://portfolio-aditya03.netlify.app/)
 
 ## Contributing
 Feel free to fork the repository and submit a pull request for improvements.
