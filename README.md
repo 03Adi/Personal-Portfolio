@@ -43,7 +43,7 @@ This is a **Personal Portfolio** website showcasing projects, skills, and contac
 
 ## Live Demo
 - **GitHub Pages:** [Your Portfolio](https://your-username.github.io/personal-portfolio/)
-- **Netlify:** [Your Portfolio](https://your-netlify-url.netlify.app)
+- **Netlify:** [Your Portfolio](https://portfolio-aditya03.netlify.app/)
 
 ## Contributing
 Feel free to fork the repository and submit a pull request for improvements.
