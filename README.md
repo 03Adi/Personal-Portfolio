@@ -4,7 +4,7 @@
 This is a **Personal Portfolio** website showcasing projects, skills, and contact details. The website is built using **HTML, CSS, and JavaScript** to ensure a responsive and visually appealing layout. It is deployed on **GitHub Pages** and **Netlify** for easy access and demonstration.
 
 ## Features
-- **Responsive Design** – Works well on all devices (desktop, tablet, and mobile)
+- **Responsive Design** – Works well on all devices (desktop, tablet, and mobile) 
 - **Smooth Animations** – Interactive user experience with CSS and JavaScript animations
 - **Project Showcase** – Highlights completed projects with descriptions and links
 - **Skills Section** – Lists technical skills and expertise
