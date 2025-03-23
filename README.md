@@ -1,4 +1,4 @@
-# Personal Portfolio
+# Personal Portfolio 
  
 ## Overview
 This is a **Personal Portfolio** website showcasing projects, skills, and contact details. The website is built using **HTML, CSS, and JavaScript** to ensure a responsive and visually appealing layout. It is deployed on **GitHub Pages** and **Netlify** for easy access and demonstration.
